@@ -1,2 +1,3 @@
-2025/11/06-22:42:05.506 5d3c Creating DB C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/11/06-22:42:05.579 5d3c Reusing MANIFEST C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/06-23:47:53.370 42f0 Reusing MANIFEST C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/06-23:47:53.400 42f0 Recovering log #3
+2025/11/06-23:47:53.406 42f0 Reusing old log C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 

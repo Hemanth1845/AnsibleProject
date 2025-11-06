@@ -1,2 +1,3 @@
-2025/11/06-22:42:41.627 5d3c Creating DB C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
-2025/11/06-22:42:41.792 5d3c Reusing MANIFEST C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+2025/11/06-23:47:53.536 42f0 Reusing MANIFEST C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+2025/11/06-23:47:53.540 42f0 Recovering log #3
+2025/11/06-23:47:53.549 42f0 Reusing old log C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 

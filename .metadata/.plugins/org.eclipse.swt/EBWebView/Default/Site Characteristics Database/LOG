@@ -1,2 +1,3 @@
-2025/11/06-22:42:04.945 5a5c Creating DB C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database since it was missing.
-2025/11/06-22:42:05.482 5a5c Reusing MANIFEST C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/11/06-23:47:53.183 1500 Reusing MANIFEST C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/11/06-23:47:53.188 1500 Recovering log #3
+2025/11/06-23:47:53.190 1500 Reusing old log C:\AnsiblePratice\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
