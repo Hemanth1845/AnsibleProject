@@ -225,3 +225,6 @@ java.lang.NullPointerException: Cannot invoke "org.springframework.ide.eclipse.b
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-11-06 23:23:59.427
+!MESSAGE Classpath changed for project: carrental-backend
